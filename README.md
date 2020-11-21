@@ -1,4 +1,4 @@
-# calendar_api
+# calendar-api
 
 A simple calendar API powered by FastAPI.
 
